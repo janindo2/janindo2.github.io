@@ -11,4 +11,4 @@
 <button> Click </button>
 <button> Click </button>
 </p>	
-<a href="scopeprince1-pixel/scopeprince1-pixel.github.io">Next</a>
+<a href="https://scopeprince1-pixel/scopeprince1-pixel.github.io">Next</a>
